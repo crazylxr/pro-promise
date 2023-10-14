@@ -1,6 +1,6 @@
 {
   "name": "pro-promise",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Promise Enhancement",
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
