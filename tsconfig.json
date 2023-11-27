@@ -3,7 +3,7 @@
     "strict": true,
     "declaration": true,
     "skipLibCheck": true,
-    "baseUrl": "./",
+    "baseUrl": "./src",
     "lib": [
       "dom",
       "es5",
