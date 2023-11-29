@@ -67,7 +67,7 @@ promisifiedFunction()
 ### 串联执行 Promise（chain）
 
 ```typescript
-import ProPromise from 'propromise'
+import ProPromise from 'pro-promise'
 
 const promises = [
   () => Promise.resolve(1),
@@ -87,7 +87,7 @@ ProPromise.chain(promises)
 ### 并发执行 Promise（concurrency）
 
 ```typescript
-import ProPromise from 'propromise'
+import ProPromise from 'pro-promise'
 
 const promises = [
   () => Promise.resolve(1),
